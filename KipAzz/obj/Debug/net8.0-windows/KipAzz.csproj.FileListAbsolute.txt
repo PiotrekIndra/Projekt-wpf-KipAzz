@@ -1,0 +1,6 @@
+C:\Users\Uczen\Source\Repos\Projekt-wpf-KipAzz\KipAzz\obj\Debug\net8.0-windows\AddPasswordWindow.g.cs
+C:\Users\Uczen\Source\Repos\Projekt-wpf-KipAzz\KipAzz\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Uczen\Source\Repos\Projekt-wpf-KipAzz\KipAzz\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Uczen\Source\Repos\Projekt-wpf-KipAzz\KipAzz\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Uczen\Source\Repos\Projekt-wpf-KipAzz\KipAzz\obj\Debug\net8.0-windows\KipAzz_MarkupCompile.cache
+C:\Users\Uczen\Source\Repos\Projekt-wpf-KipAzz\KipAzz\obj\Debug\net8.0-windows\KipAzz_MarkupCompile.lref

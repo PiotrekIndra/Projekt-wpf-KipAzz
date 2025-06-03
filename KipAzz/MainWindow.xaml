@@ -10,8 +10,8 @@
         <local:PasswordVM/>
     </Window.DataContext>
     <Grid>
-        <Button Content="Dodaj nowe hasło" HorizontalAlignment="Left" Margin="135,145,0,0" VerticalAlignment="Top"/>
-        <Button Content="Aktualizuj hasło" HorizontalAlignment="Left" Margin="360,145,0,0" VerticalAlignment="Top"/>
+        <Button Content="Dodaj nowe hasło" HorizontalAlignment="Left" Margin="135,145,0,0" VerticalAlignment="Top" Command="{Binding AddPasword}"/>
+        <Button Content="Aktualizuj hasło" HorizontalAlignment="Left" Margin="360,145,0,0" VerticalAlignment="Top" Command="{Binding UpdatePassword}"/>
         
     </Grid>
 </Window>
